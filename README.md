@@ -8,6 +8,7 @@ Enabled Configurations
 - hl search
     - <lead><space>: hisearch disable
 - mouse
+- tab setting
 
 Installed Plugins
 - Vundle

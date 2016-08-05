@@ -53,5 +53,10 @@ set mouse=a
 " color scheme
 color happy_hacking
 
+let mapleader="\<Space>"
+
 nnoremap <F10> : NERDTreeToggle<CR>
-nnoremap <leader><space> :nohlsearch<CR>
+nnoremap <leader><space> : nohlsearch<CR>
+nnoremap <C-n> : tabnew<CR>
+nnoremap <leader>th : tabp<CR>
+nnoremap <leader>tl : tabn<CR>
