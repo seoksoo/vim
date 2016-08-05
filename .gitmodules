@@ -1,0 +1,9 @@
+[submodule "bundle/Vundle.vim"]
+    path = bundle/Vundle.vim
+    url = https//github.com/gmarik/Vundle.vim.git
+    ignore = dirty
+
+[submodule "bundle/The-NERD-tree"]
+    path = bundle/The-NERD-tree
+    url = https//github.com/vim-scripts/The-NERD-tree.git 
+    ignore = dirty
